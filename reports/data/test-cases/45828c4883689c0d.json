@@ -1,5 +1,5 @@
 {
-  "uid" : "4460b63610cb0bd2",
+  "uid" : "45828c4883689c0d",
   "name" : "test_one",
   "fullName" : "testcases.test_send_request.TestOne#test_one",
   "historyId" : "a4c0412602ebae1d4f58887a9b0cf02a",
@@ -73,6 +73,6 @@
     } ],
     "tags" : [ ]
   },
-  "source" : "4460b63610cb0bd2.json",
+  "source" : "45828c4883689c0d.json",
   "parameterValues" : [ ]
 }

@@ -7,7 +7,7 @@
       "name" : "56718-MainThread",
       "children" : [ {
         "name" : "test_one",
-        "uid" : "4460b63610cb0bd2",
+        "uid" : "45828c4883689c0d",
         "parentUid" : "a85a9c8dfec65f45a3a104534458e8de",
         "status" : "broken",
         "time" : {
@@ -22,20 +22,8 @@
     }, {
       "name" : "57952-MainThread",
       "children" : [ {
-        "name" : "test_api[\\u661f\\u8000]",
-        "uid" : "f1a2644e6f7daa39",
-        "parentUid" : "0976edabce264fe2577d0d61b635a8d1",
-        "status" : "broken",
-        "time" : {
-          "start" : 1681578439426,
-          "stop" : 1681578439426,
-          "duration" : 0
-        },
-        "flaky" : false,
-        "parameters" : [ "'星耀'" ]
-      }, {
         "name" : "test_api[\\u4f9d\\u7136]",
-        "uid" : "740430549f4c4a7e",
+        "uid" : "283e52dce92a47eb",
         "parentUid" : "0976edabce264fe2577d0d61b635a8d1",
         "status" : "broken",
         "time" : {
@@ -47,7 +35,7 @@
         "parameters" : [ "'依然'" ]
       }, {
         "name" : "test_api[\\u767e\\u91cc]",
-        "uid" : "53d77f3750000298",
+        "uid" : "e544864044959571",
         "parentUid" : "0976edabce264fe2577d0d61b635a8d1",
         "status" : "broken",
         "time" : {
@@ -57,6 +45,18 @@
         },
         "flaky" : false,
         "parameters" : [ "'百里'" ]
+      }, {
+        "name" : "test_api[\\u661f\\u8000]",
+        "uid" : "f8d1ef760e004860",
+        "parentUid" : "0976edabce264fe2577d0d61b635a8d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1681578439426,
+          "stop" : 1681578439426,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ "'星耀'" ]
       } ],
       "uid" : "0976edabce264fe2577d0d61b635a8d1"
     } ],

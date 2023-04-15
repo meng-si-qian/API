@@ -9,7 +9,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "53d77f3750000298",
+      "uid" : "e544864044959571",
       "status" : "broken",
       "statusDetails" : "AttributeError: type object 'YamlUtil' has no attribute 'clear_extract_yaml'",
       "time" : {
@@ -29,7 +29,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "740430549f4c4a7e",
+      "uid" : "283e52dce92a47eb",
       "status" : "broken",
       "statusDetails" : "AttributeError: type object 'YamlUtil' has no attribute 'clear_extract_yaml'",
       "time" : {
@@ -49,7 +49,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "f1a2644e6f7daa39",
+      "uid" : "f8d1ef760e004860",
       "status" : "broken",
       "statusDetails" : "AttributeError: type object 'YamlUtil' has no attribute 'clear_extract_yaml'",
       "time" : {
@@ -69,7 +69,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4460b63610cb0bd2",
+      "uid" : "45828c4883689c0d",
       "status" : "broken",
       "statusDetails" : "TypeError: clear_extract_yaml() missing 1 required positional argument: 'self'",
       "time" : {

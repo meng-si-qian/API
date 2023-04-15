@@ -18,6 +18,6 @@ def confTest():
     print('啦啦啦')
 
 
-@pytest.fixture(scope="session",autouse=True)
+# @pytest.fixture(scope="session",autouse=True)
 def claer_yaml():
     YamlUtil.clear_extract_yaml()
