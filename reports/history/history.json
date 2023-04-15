@@ -1,0 +1,22 @@
+{
+  "a4c0412602ebae1d4f58887a9b0cf02a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "57584aa1926a5f82",
+      "status" : "broken",
+      "statusDetails" : "TypeError: clear_extract_yaml() missing 1 required positional argument: 'self'",
+      "time" : {
+        "start" : 1681575637826,
+        "stop" : 1681575637826,
+        "duration" : 0
+      }
+    } ]
+  }
+}

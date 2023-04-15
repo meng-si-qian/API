@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "TypeError: clear_extract_yaml() missing 1 required positional argument: 'self'",
+      "children" : [ {
+        "name" : "test_one",
+        "uid" : "57584aa1926a5f82",
+        "parentUid" : "dc0bd5ecdba06a81ee4746269c5ae6bd",
+        "status" : "broken",
+        "time" : {
+          "start" : 1681575637826,
+          "stop" : 1681575637826,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "dc0bd5ecdba06a81ee4746269c5ae6bd"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

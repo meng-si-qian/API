@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MSQ.local",
+    "children" : [ {
+      "name" : "56718-MainThread",
+      "children" : [ {
+        "name" : "test_one",
+        "uid" : "57584aa1926a5f82",
+        "parentUid" : "a85a9c8dfec65f45a3a104534458e8de",
+        "status" : "broken",
+        "time" : {
+          "start" : 1681575637826,
+          "stop" : 1681575637826,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a85a9c8dfec65f45a3a104534458e8de"
+    } ],
+    "uid" : "638515fd7d2f8555622a95dc33f14e74"
+  } ]
+}

@@ -12,12 +12,16 @@ import requests
 
 
 class TestOne:
-    def get_session(self):
-        session = requests.session()
-        return  session
-    def testOne(self):
-        url = ""
-        data = {
-            "appid": "",
-        }
-        rep = self.get_session().request("post",url = url , json = data)
+    # def get_session(self):
+    #     session = requests.session()
+    #     return  session
+    # def testOne(self):
+    #     url = ""
+    #     data = {
+    #         "appid": "",
+    #     }
+    #     rep = self.get_session().request("post",url = url , json = data)
+    def test_one(self,a,b):
+        a = 2
+        b =  1
+        assert  a != b
