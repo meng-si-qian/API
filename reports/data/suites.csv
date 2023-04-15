@@ -1,2 +1,5 @@
 "Status","Name","Duration in ms","Description"
 "broken","testcases.test_send_request.TestOne#test_one","0",""
+"broken","testcases.test_api.TestApi#test_api","0",""
+"broken","testcases.test_api.TestApi#test_api","0",""
+"broken","testcases.test_api.TestApi#test_api","0",""

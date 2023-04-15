@@ -1,4 +1,64 @@
 {
+  "d3a22fed366b8bc7f040538d4be22700" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "53d77f3750000298",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: type object 'YamlUtil' has no attribute 'clear_extract_yaml'",
+      "time" : {
+        "start" : 1681578439385,
+        "stop" : 1681578439385,
+        "duration" : 0
+      }
+    } ]
+  },
+  "516084569494f6f189e1be66394b183f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "740430549f4c4a7e",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: type object 'YamlUtil' has no attribute 'clear_extract_yaml'",
+      "time" : {
+        "start" : 1681578439431,
+        "stop" : 1681578439431,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1a85eb3e2597d3c1fdfd861152b32b68" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f1a2644e6f7daa39",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: type object 'YamlUtil' has no attribute 'clear_extract_yaml'",
+      "time" : {
+        "start" : 1681578439426,
+        "stop" : 1681578439426,
+        "duration" : 0
+      }
+    } ]
+  },
   "a4c0412602ebae1d4f58887a9b0cf02a" : {
     "statistic" : {
       "failed" : 0,
@@ -9,7 +69,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "57584aa1926a5f82",
+      "uid" : "4460b63610cb0bd2",
       "status" : "broken",
       "statusDetails" : "TypeError: clear_extract_yaml() missing 1 required positional argument: 'self'",
       "time" : {
