@@ -32,3 +32,8 @@ class YamlUtil:
         with open(os.getcwd()+"/testcases/"+yaml_name,mode="r",encoding='utf-8') as f:
             vaule  = yaml.load(stream=f,Loader=yaml.FullLoader)
             return vaule
+    #读取yaml文件
+    def read_yaml(self,yaml_name):
+        with open(os.getcwd()+yaml_name,mode="r",encoding='utf-8') as f:
+            vaule  = yaml.load(f,Loader=yaml.FullLoader)
+            return vaule
