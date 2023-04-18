@@ -16,8 +16,9 @@ class Test_new:
         url = args['api_request']['url']
         method= args['api_request']['method']
         headers= args['api_request']['headers']
-        paramss = args['api_request']['paramss']
-        req = requests.Request(method=method,url=url,json=paramss,headers=headers)
+        params = args['api_request']['params']
+        req = requests.Request(method=method,url=url,json=params,headers=headers)
+        print(req.json)
 
 if __name__ == '__main__':
     pytest.main(['-vs'])
